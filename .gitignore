@@ -1,0 +1,26 @@
+.idea/
+venv
+__pycache__
+node_modules/
+.env
+
+HELP.md
+.gradle
+build/
+gradlew.bat
+gradlew
+gradle
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+restart.bat
+start.bat
+stop.bat
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
